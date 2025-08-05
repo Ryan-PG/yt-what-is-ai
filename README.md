@@ -48,7 +48,7 @@ This repository contains all the materials from my **introductory presentation o
 ## YouTube Video
 
 You can watch the full presentation here:
-👉 [Watch on YouTube](https://www.youtube.com/watch?v=VERYSOON)
+👉 [Watch on YouTube](https://www.youtube.com/watch?v=RJ1TQRHSZis&list=PLwUWEGKy5kyMFKAqXh4D8tkd8jrDXcw6i&index=6)
 
 ## Contributing
 

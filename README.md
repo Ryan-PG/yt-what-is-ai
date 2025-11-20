@@ -5,7 +5,8 @@ This repository contains all the materials from my **introductory presentation o
 ## YouTube Video
 
 You can watch the full presentation here:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJ1TQRHSZis?si=WVvTW_61Ik2Dt6YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![Video Title](https://img.youtube.com/vi/RJ1TQRHSZis/0.jpg)](https://www.youtube.com/watch?v=RJ1TQRHSZis?si=WVvTW_61Ik2Dt6YM)
 
 ## Preview
 

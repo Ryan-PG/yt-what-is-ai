@@ -2,6 +2,11 @@
 
 This repository contains all the materials from my **introductory presentation on Artificial Intelligence (AI)**, delivered in Jul 2025. It's designed for those who are new to the field or want a solid conceptual overview. The content focuses on key concepts, history, applications, and ethical considerations in AI.
 
+## YouTube Video
+
+You can watch the full presentation here:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJ1TQRHSZis?si=WVvTW_61Ik2Dt6YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Preview
 
 ![Preview](preview.gif)
@@ -44,11 +49,6 @@ This repository contains all the materials from my **introductory presentation o
 * Machine Learning, Deep Learning, and Neural Networks (briefly)
 * Applications of AI in daily life
 * Some softwares and models (GPT, n8n, ...)
-
-## YouTube Video
-
-You can watch the full presentation here:
-👉 [Watch on YouTube](https://www.youtube.com/watch?v=RJ1TQRHSZis&list=PLwUWEGKy5kyMFKAqXh4D8tkd8jrDXcw6i&index=6)
 
 ## Contributing
 

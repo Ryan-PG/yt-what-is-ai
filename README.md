@@ -6,7 +6,7 @@ This repository contains all the materials from my **introductory presentation o
 
 You can watch the full presentation here:
 
-[![Video Title](https://img.youtube.com/vi/RJ1TQRHSZis/0.jpg)](https://www.youtube.com/watch?v=RJ1TQRHSZis?si=WVvTW_61Ik2Dt6YM)
+[![ چگونه مثل یک مدیر فکر کنیم؟ نگاهی استراتژیک به هوش مصنوعی و ابزارهاش](https://img.youtube.com/vi/RJ1TQRHSZis/0.jpg)](https://www.youtube.com/watch?v=RJ1TQRHSZis?si=WVvTW_61Ik2Dt6YM)
 
 ## Preview
 
